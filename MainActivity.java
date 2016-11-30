@@ -70,6 +70,7 @@ public class MainActivity extends FragmentActivity {
 	
 	
 	//git test again
+	//and git again test
 	private View getTabItemView(int index) {
 		View view = View.inflate(this, R.layout.maintab_item, null);
 		ImageView ivIcon = (ImageView) view.findViewById(R.id.iv_maintab_icon);
